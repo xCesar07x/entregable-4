@@ -1,7 +1,7 @@
 const Chats = require("../models/chat.models");
 const Messages = require("../models/message.models");
 const Participants = require("../models/participants.models");
-const Users = require("../models/user.models");
+// const Users = require("../models/user.models");
 
 class ChatServices {
 
